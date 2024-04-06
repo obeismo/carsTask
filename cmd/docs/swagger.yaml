@@ -1,0 +1,9 @@
+basePath: /
+host: localhost:8000
+info:
+  contact: {}
+  description: API for managing cars and owners
+  title: Car API
+  version: "1.0"
+paths: {}
+swagger: "2.0"
